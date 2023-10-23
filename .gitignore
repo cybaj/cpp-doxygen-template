@@ -13,7 +13,6 @@
 /build/
 /debug/
 /release/
-/docs/
 
 # Cache directories
 .ccls-cache/
@@ -36,4 +35,11 @@ Makefile
 .DS_Store
 Thumbs.db
 
+# python
+.venv/
 
+# docs
+docs/html/
+docs/latex/
+docs/xml/
+docs/sphinx/build/
