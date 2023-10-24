@@ -10,6 +10,8 @@ Welcome to apple doxygen's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   hello
+   my_class
 
 
 Indices and tables
@@ -18,10 +20,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-doxygenfile
-==================
-
-.. doxygenfile:: hello.h
-.. doxygenfile:: my_class.h
-
